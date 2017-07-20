@@ -1,0 +1,73 @@
+Computer = Hardware+Software
+
+Hardware:
+Physical parts of a computer.
+Examples: mouse,keyboard (outside) / CPU, Hard disk (inside)
+
+Software:
+Programs and other operating system to function the computer.
+Examples: Microsoft Word, Internet Explorer
+
+    OS: Operating System
+Starts computer -> uses to interact with other programs 
+Examples: Windows 10, Linux
+(Connection between you and the computer)
+
+ASCII:
+American Standard Code Information Interchange
+
+CPU:
+Central Processing Unit
+=Brain
+
+RAM:
+Random Access Memory
+Using it and throwing it away (temporarily)
+
+USB: Universal Serial Bus
+
+Program:
+Series of actions or commands
+Instructions
+
+Hard disk:
+Saves things (memory)
+EXample: USB
+
+Language:
+Used to write program
+
+Decimal System:
+
+546
+(5x100)+(4x10)+(6x1)
+(5x10^2)+(4x10^1)+(6x10^0)
+
+Every number is between 0-9 and with a base of 10.
+Deca=10 >> Decimal System
+
+
+Binary System:
+
+Can only use 1 or 0
+Has a base of 2
+
+11100111
+
+(1x2^7)+(1x2^6)+(1x2^5)+(0x2^4)+(0x2^3)+(1x2^2)+(1x2^1)+(1x2^0)
+  128  +  64   +   32  +   0   +   0   +    4  +   2   +  1
+=231
+
+
+Decimal - Binary
+83
+64+16+2+1 
+
+(Missing 4, 8, 32 means there will be a 0 in their place)
+
+64 __ 16 __ __ 2 1
+1  0  1  0  0  1 1
+
+83: Decimal
+1010011: Binary
+
