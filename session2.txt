@@ -1,0 +1,97 @@
+Computer system holds 4 values
+00 (0)  01 (1)  10 (2)  11 (3)
+   2.          3.       4
+
+Number of bits and their capacity ( how many values)
+
+number of bits | number of values  | values 
+    1 (2^1)        |            2                 |   0-1        
+    2 (2^2)        |            4                 |   0-3
+    3 (2^3)        |            8                 |   0-7
+    4 (2^4)        |           16                |   0-15
+    5 (2^5)        |           32                |   0-31
+    6 (2^6)        |           64                |   0-63
+    7 (2^7)        |          128               |   0-127
+    8 (2^8)        |          256               |   0-128
+
+8 bits = 1 byte
+1024 bytes (10^3) = 1 kilo byte
+1024 x 1024 (10^6) = 1 mega byte
+1024 x 1024 x 1024 bytes (10^9) = 1 giga byte
+
+
+Windows OS
+Push the windows key
+Start typing winver
+A tab will open saying what OS you are in
+
+Memory
+Right click on “type here to search”
+Press Task Manager
+Go to Performance Task
+You will see a box that says Memory
+
+Hard Disk
+Push windows key +E
+Brings you to files
+Right click on C drive
+Click on Properties
+A tab pops up
+            -shows you  free / used (capacity) space
+
+Qeustion?
+RAM 16GB
+-Ram = scratchpad
+
+Hard disk
+           -Hard disk = storage
+
+Needs higher hard disk to store things permanently
+
+
+Folders and Files
+Files = a group of bytes
+Different types of files….
+Examples:
+.txt = text files (can create with notepad.exe)
+.exe = executable
+               -software/ programs/ applications are also executables 
+               -on Windows -> 
+notepad.exe (test files)
+cmd.exe (command prompt)
+chrome.exe (browser)
+calc.exe (calculator)
+    Picture files =.png, .jpg
+    Videos = mp4
+    HTML files = .html
+
+Folder is a collection of files can also contain folders
+
+
+Creating Folders
+Right click on WIndows C:
+Click on New
+Go to Folder
+
+
+Command Prompt
+Windows key + R
+Run window pops up
+Type cmd
+
+Cmd language  -> directory = folder
+cd/ = different directory
+md = create directory
+
+
+Java
+Open Eclipse Oxygen
+Go to file -> New -> Java Project
+Type in HelloWorld for project name 
+Click finish
+
+Creating Java Class
+File -> New -> Class
+Name: HelloWorld
+Click public static void main
+Finish
