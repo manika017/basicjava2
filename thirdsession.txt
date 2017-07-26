@@ -1,1 +1,64 @@
-this is sesstion 3 which I am going to modify once I go home with whatever I learned in session3 class
+We learned git basics and we used github for our java source files and notes.
+
+What we will be using git for…
+Git is used by a lot of companies.
+We will git for taking notes, exercises, and quizzes.
+If you take a break from java you can look into your github account and get to speed quickly
+Companies look for your github account while hiring. They will see what you have done.
+You can add your github account to your resume.
+
+Process of putting your something in Github…
+Create a repository
+Copy the url of the repository
+Go to command prompt
+cd/  (enter)
+md gitlearn (enter)
+cd gitlearn (enter)
+git clone url (enter)
+
+This will bring whatever in on your repository on your computer.
+
+
+Adding a new file…
+
+Let’s say for examples we are creating session3.txt
+Continuation  of  “Process of putting something in Github”
+Type session3.txt (enter)
+In notepad type in your own notes
+Go to file (left corner on notepad) -> save
+Quit out from the notepad
+Command prompt: type git status (enter) [red=change]
+Type git add * (enter)
+Type git push origin master (enter)
+Now go to your github account and find your new file.
+
+Modifying files…
+Open command prompt
+cd/
+cd gitlearn/basicjava
+Notepad session3.txt
+Modify with new notes
+File -> save
+Quit notepad
+git status
+git add *
+git commit -m “some comment”
+git push origin master 
+
+Deleting files…
+Use del command ( or use file explorer)
+
+
+Summary
+Git status = shows the status of addition/ modifications / deletions
+Git add * = adds file to local (account)
+Git commit -m “some comment” = commits to local repository
+Git push origin master = finally they are in your github account
+        
+Eclipse -> basicjava repository
+Open Eclipse
+Workspace: c:/dev/basicjava
+Launch eclipse
+File -> java project
+Use the command prompt commands
+Create HelloWorld
